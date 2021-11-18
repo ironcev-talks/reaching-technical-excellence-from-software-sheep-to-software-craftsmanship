@@ -6,8 +6,8 @@
 
 In the talk, I share experiences and lessons learned from a challenging change management quest undertook to transform the company's mindset and skill set.
 
-What is the agile hangover, and how to overcome it?
-What are software sheep, and how not to be one?
+What is the agile hangover, and how to overcome it?</br>
+What are software sheep, and how not to be one?</br>
 How to push an organization toward genuine software craftsmanship?
 
 You will learn what we as a world's leading automotive technology company did to become better software craftsmen. The chances are high that the approach we took might work for your company as well.
