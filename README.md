@@ -16,6 +16,7 @@ You will learn what we as a world's leading automotive technology company did to
 
 |                           Version                            | Date                          | Event                                                        |       City        | Country | Video |
 | :----------------------------------------------------------: | ----------------------------- | ------------------------------------------------------------ | :---------------: | ------- | ----- |
+| v2.0.0 | December&nbsp;5th,&nbsp;2018 | [[Conference] Advanced Technology Days](https://advtechdays.com/) | Zagreb | Croatia | - |
 | [v1.0.0](https://github.com/ironcev-talks/reaching-technical-excellence-from-software-sheep-to-software-craftsmanship/releases/tag/2018-05-18-Graz-Austria-Agile-Austria-Conference) | May&nbsp;18th,&nbsp;2018 | [[Conference] Agile Austria](https://agile-austria.org/en/) (with [Stefan Wunder](https://twitter.com/stwunder)) | Graz | Austria | [YouTube](https://www.youtube.com/watch?v=nOESnHoDHjQ) |
 
 ## License
