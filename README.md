@@ -12,6 +12,12 @@ How to push an organization toward genuine software craftsmanship?
 
 You will learn what we as a world's leading automotive technology company did to become better software craftsmen. The chances are high that the approach we took might work for your company as well.
 
+## Talk History
+
+|                           Version                            | Date                          | Event                                                        |       City        | Country | Video |
+| :----------------------------------------------------------: | ----------------------------- | ------------------------------------------------------------ | :---------------: | ------- | ----- |
+| v1.9.0 | May&nbsp;18th,&nbsp;2018 | [[Conference] Agile Austria](https://agile-austria.org/en/) | Graz | Austria | [YouTube](https://www.youtube.com/watch?v=nOESnHoDHjQ) |
+
 ## License
 
 [![CC BY 4.0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
