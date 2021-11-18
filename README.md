@@ -22,7 +22,9 @@ You will learn what we as a world's leading automotive technology company did to
 
 ## Presentations
 
-The latest minor version of the presentation is available for viewing and download on [SlideShare](https://www.slideshare.net/roncevi/reaching-technical-excellence-from-software-sheep-to-software-craftsmanship) and [Speaker Deck](https://speakerdeck.com/ironcev/reaching-technical-excellence-from-software-sheep-to-software-craftsmanship). The exact presentations used in talks are available on the [release page](https://github.com/ironcev-talks/entity-framework-core-hidden-gems/releases). The presentations used in talks vary significantly from each other. Their content depends on the exact talk format, duration, and audience. The version on SlideShare and Speaker Deck contains all the slides.
+The latest minor version of the presentation is available for viewing and download on [SlideShare](https://www.slideshare.net/roncevi/reaching-technical-excellence-from-software-sheep-to-software-craftsmanship) and [Speaker Deck](https://speakerdeck.com/ironcev/reaching-technical-excellence-from-software-sheep-to-software-craftsmanship). The exact presentations used in talks are available on the [release page](https://github.com/ironcev-talks/reaching-technical-excellence-from-software-sheep-to-software-craftsmanship/releases). The presentations used in talks vary significantly from each other. Their content depends on the exact talk format, duration, and audience. The version on SlideShare and Speaker Deck contains all the slides.
+
+[![Entity Framework Core Hidden Gems](images/entity-framework-core-hidden-gems.jpg)](https://www.slideshare.net/roncevi/entity-framework-core-hidden-gems-v080-231160063)
 
 ## License
 
