@@ -20,6 +20,10 @@ You will learn what we as a world's leading automotive technology company did to
 | [v2.0.0](https://github.com/ironcev-talks/reaching-technical-excellence-from-software-sheep-to-software-craftsmanship/releases/tag/2018-12-05-Zagreb-Croatia-Advanced-Technology-Days-Conference) | December&nbsp;5th,&nbsp;2018 | [[Conference] Advanced Technology Days](https://advtechdays.com/) | Zagreb | Croatia | - |
 | [v1.0.0](https://github.com/ironcev-talks/reaching-technical-excellence-from-software-sheep-to-software-craftsmanship/releases/tag/2018-05-18-Graz-Austria-Agile-Austria-Conference) | May&nbsp;18th,&nbsp;2018 | [[Conference] Agile Austria](https://agile-austria.org/en/) (with [Stefan Wunder](https://twitter.com/stwunder)) | Graz | Austria | [YouTube](https://www.youtube.com/watch?v=nOESnHoDHjQ) |
 
+## Presentations
+
+The latest minor version of the presentation is available for viewing and download on [SlideShare](https://www.slideshare.net/roncevi/reaching-technical-excellence-from-software-sheep-to-software-craftsmanship) and [Speaker Deck](https://speakerdeck.com/ironcev/reaching-technical-excellence-from-software-sheep-to-software-craftsmanship). The exact presentations used in talks are available on the [release page](https://github.com/ironcev-talks/entity-framework-core-hidden-gems/releases). The presentations used in talks vary significantly from each other. Their content depends on the exact talk format, duration, and audience. The version on SlideShare and Speaker Deck contains all the slides.
+
 ## License
 
 [![CC BY 4.0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
